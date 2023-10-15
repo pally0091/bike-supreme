@@ -3,3 +3,7 @@
 @import "tailwindcss/utilities";
 
 /* custom css  */
+body {
+  background-color: #a2bec1;
+  font-family: "Chakra Petch", sans-serif;
+}
